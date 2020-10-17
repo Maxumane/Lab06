@@ -80,7 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/abstract_operation.hpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/addition_operation.hpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/division_operation.hpp">
+			<Option target="Lab06"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/main.cpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/multiplication_operation.hpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/operation.hpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/rpn_calculator.cpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/rpn_calculator.hpp">
+			<Option target="Lab06"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/subtraction_operation.hpp">
 			<Option target="Lab06"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Max/CLionProjects/Lab06/CMakeLists.txt">

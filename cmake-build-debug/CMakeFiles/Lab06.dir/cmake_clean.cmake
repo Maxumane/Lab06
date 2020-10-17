@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Lab06.dir/main.cpp.o"
+  "CMakeFiles/Lab06.dir/rpn_calculator.cpp.o"
   "Lab06.exe"
   "Lab06.pdb"
   "libLab06.dll.a"
